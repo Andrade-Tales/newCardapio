@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/andra/Developer/newCardapio/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
-        <entry key="..\:/Users/andra/Developer/newCardapio/app/src/main/res/layout/card_layout.xml" value="0.1287568306010929" />
+        <entry key="..\:/Users/andra/Developer/newCardapio/app/src/main/res/layout/activity_second_screen.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/andra/Developer/newCardapio/app/src/main/res/layout/card_layout.xml" value="0.17" />
+        <entry key="..\:/Users/andra/Developer/newCardapio/app/src/main/res/layout/detailed_activity.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/andra/Developer/newCardapio/app/src/main/res/layout/second_screen.xml" value="0.1" />
       </map>
     </option>
   </component>
