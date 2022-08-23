@@ -5,11 +5,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
-import android.widget.Toolbar
 import androidx.recyclerview.widget.RecyclerView
-import kotlinx.android.synthetic.main.activity_main.view.*
-import kotlinx.android.synthetic.main.card_layout.view.*
-import java.text.FieldPosition
+
 
 class CardapioAdapter(private val cardapioList: ArrayList<Cardapio>) :
     RecyclerView.Adapter<CardapioAdapter.CardapioViewHolder>() {
