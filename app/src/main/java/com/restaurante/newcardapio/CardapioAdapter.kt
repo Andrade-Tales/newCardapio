@@ -5,7 +5,9 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
+import android.widget.Toolbar
 import androidx.recyclerview.widget.RecyclerView
+import kotlinx.android.synthetic.main.activity_main.view.*
 import kotlinx.android.synthetic.main.card_layout.view.*
 import java.text.FieldPosition
 
@@ -18,6 +20,7 @@ class CardapioAdapter(private val cardapioList: ArrayList<Cardapio>) :
         val textView: TextView = itemView.findViewById(R.id.textView)
         val detailView: TextView = itemView.findViewById(R.id.detailView)
         val imageView: ImageView = itemView.findViewById(R.id.imageView)
+
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): CardapioViewHolder {
@@ -30,6 +33,7 @@ class CardapioAdapter(private val cardapioList: ArrayList<Cardapio>) :
         holder.textView.text = cardapio.titulo
         holder.detailView.text = cardapio.descricao
         holder.imageView.setImageResource(cardapio.imagem)
+
 
         holder.itemView.setOnClickListener {
             onItemClick?.invoke(cardapio)

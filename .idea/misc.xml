@@ -3,11 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/andra/Developer/newCardapio/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/andra/Developer/newCardapio/app/src/main/res/drawable/ic_launcher_background.xml" value="0.147" />
+        <entry key="..\:/Users/andra/Developer/newCardapio/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/andra/Developer/newCardapio/app/src/main/res/layout/activity_second_screen.xml" value="0.17074275362318841" />
-        <entry key="..\:/Users/andra/Developer/newCardapio/app/src/main/res/layout/card_layout.xml" value="0.17" />
+        <entry key="..\:/Users/andra/Developer/newCardapio/app/src/main/res/layout/card_layout.xml" value="0.22" />
         <entry key="..\:/Users/andra/Developer/newCardapio/app/src/main/res/layout/detailed_activity.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/andra/Developer/newCardapio/app/src/main/res/layout/menu_layout.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/andra/Developer/newCardapio/app/src/main/res/layout/second_screen.xml" value="0.1" />
+        <entry key="..\:/Users/andra/Developer/newCardapio/app/src/main/res/layout/toolbar.xml" value="0.203125" />
+        <entry key="..\:/Users/andra/Developer/newCardapio/app/src/main/res/layout/toolbar_layout.xml" value="0.203125" />
       </map>
     </option>
   </component>
