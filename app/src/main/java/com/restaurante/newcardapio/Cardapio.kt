@@ -13,9 +13,9 @@ data class Cardapio(val titulo: String?, val descricao: String?, val imagem: Int
     }
 
     override fun writeToParcel(parcel: Parcel, flags: Int) {
-        parcel?.writeString(titulo)
-        parcel?.writeString(descricao)
-        parcel?.writeInt(imagem)
+        parcel.writeString(titulo)
+        parcel.writeString(descricao)
+        parcel.writeInt(imagem)
 
     }
 

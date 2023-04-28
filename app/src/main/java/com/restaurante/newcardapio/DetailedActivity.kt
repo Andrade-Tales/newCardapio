@@ -5,7 +5,6 @@ import android.os.Bundle
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.widget.Toolbar
-import kotlinx.android.synthetic.main.detailed_activity.*
 
 
 class DetailedActivity : AppCompatActivity() {
@@ -14,7 +13,6 @@ class DetailedActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.detailed_activity)
 
-        setSupportActionBar(toolbar)
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
 
